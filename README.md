@@ -43,10 +43,26 @@
 <br>
 
 <li>
+<a href="https://matias.me/nsfw/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%252300acee.svg?color=EA899A&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
 <a href="mailto:fdsmdfr985@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  fdsmdfr985@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
+<br>
+
+<li>
+<a href="https://matias.me/nsfw/" target="_blank">
+<img src="https://img.shields.io/badge/Trust%20Me-%252300acee.svg?color=A020F0&style=for-the-badge" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
 </ul>
 </div>
