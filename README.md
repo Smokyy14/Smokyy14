@@ -21,8 +21,9 @@
 <br>
 
 ## <b>Languages:</b>
-    
+
 ![HTML5](https://img.shields.io/badge/HTML5%20-%2300599C.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS%20-%2300599C.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 <br>
