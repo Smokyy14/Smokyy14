@@ -47,6 +47,10 @@
 </a>
 </li>
 
+<li>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support my projects!', '#72a4f2', 'R5R01GPUZJ');kofiwidget2.draw();</script> 
+</li>
+
 <br>
 
 <li>
