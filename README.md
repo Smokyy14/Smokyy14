@@ -26,6 +26,9 @@
 
 -----
 
+My Ko-Fi ☕
+
+-----
 <div align="center">
 
 <table>
