@@ -7,7 +7,6 @@
 
 <a href="https://github.com/0xabdulkhalid/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smokyy14&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Smokyy14"/>
-
 </a>
 </div>
 
@@ -43,19 +42,23 @@
 
 <li>
 <a href="https://www.instagram.com/santuti304?igsh=MWN6eHMyN3hnbDYzNg==" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%252300acee.svg?color=EA899A&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram-%252300acee.svg?color=EA899A&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
 
+<br>
+
 <li>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support my projects!', '#72a4f2', 'R5R01GPUZJ');kofiwidget2.draw();</script> 
+<a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+</a>
 </li>
 
 <br>
 
 <li>
 <a href="mailto:Contact.Smokyy@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Contact.Smokyy@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Contact.Smokyy@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -63,7 +66,7 @@
 
 <li>
 <a href="https://matias.me/nsfw/" target="_blank">
-<img src="https://img.shields.io/badge/Trust%20Me-%252300acee.svg?color=A020F0&style=for-the-badge" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Trust%20Me-%252300acee.svg?color=A020F0&style=for-the-badge" alt=trust-me style="margin-bottom: 5px;"/>
 </a>
 </li>
 
