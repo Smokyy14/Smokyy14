@@ -34,9 +34,7 @@
       <img src="https://storage.ko-fi.com/cdn/opengraph_assets/default_creator_og/hz_profile_page.png" alt="Ko-fi Profile Banner" width="500"/>
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
-      <a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
-        <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
-      </a>
+      <a href='https://ko-fi.com/R5R01GPUZJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
     </td>
   </tr>
 </table>
