@@ -76,4 +76,6 @@
 
 <li>
 <a href="https://matias.me/nsfw/" target="_blank">
-  <img src="https://img.shields.io/badge/Trust%20Me-%252300acee.svg?color=A020
+  <img src="https://img.shields.io/badge/Trust%20Me-%252300acee.svg?color=A020" alt="Trust me." />
+</a>
+</li>
