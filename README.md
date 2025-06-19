@@ -34,16 +34,17 @@
 
 ## My Ko-Fi ☕
 
-<table>
-  <tr>
-    <td>
-      <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_dark.png?_gl=1*xsfa39*_gcl_au*MjI5NTg4MDc4LjE3NTAzNDk3ODk.*_ga*MTY1MzkzNzIzLjE3NTAzNDk3OTg.*_ga_M13FZ7VQ2C*czE3NTAzNzAxNzAkbzMkZzEkdDE3NTAzNzIyMzkkajM0JGwwJGgw" alt="Ko-fi Profile Banner" width="500"/>
-    </td>
-    <td style="vertical-align: middle; padding-left: 20px;">
-      <a href='https://ko-fi.com/R5R01GPUZJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-    </td>
-  </tr>
-</table>
+<br>
+
+<ul>
+
+<li>
+<a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
+  <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_dark.png?_gl=1*xsfa39*_gcl_au*MjI5NTg4MDc4LjE3NTAzNDk3ODk.*_ga*MTY1MzkzNzIzLjE3NTAzNDk3OTg.*_ga_M13FZ7VQ2C*czE3NTAzNzAxNzAkbzMkZzEkdDE3NTAzNzIyMzkkajM0JGwwJGgw" alt="Ko-fi Profile Banner" width="500"/>
+</a>
+</li>
+
+<br>
 
 </div>
 
