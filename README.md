@@ -32,10 +32,10 @@
 
 ------
 
-## Ko-fi:
+## You can support my projects here:
 
 <a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Click here!" />
 </a>
 
 </div>
