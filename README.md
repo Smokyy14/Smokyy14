@@ -30,6 +30,8 @@
 
 <div align="center">
 
+------
+
 ## Ko-fi:
 
 <a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
@@ -39,6 +41,8 @@
 </div>
 
 <br>
+
+-----
 
 ## <b> Let's Connect..!</b>
 <br>
