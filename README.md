@@ -30,7 +30,9 @@
 
 <div align="center">
 
-## ☕ Ko-fi:
+<img src="https://storage.ko-fi.com/cdn/opengraph_assets/default_creator_og/hz_profile_page.png" alt="Ko-fi Profile Banner" width="600"/>
+
+<br><br>
 
 <a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi!" />
@@ -39,6 +41,7 @@
 </div>
 
 <br>
+
 
 -----
 
