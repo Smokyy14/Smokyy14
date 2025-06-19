@@ -30,9 +30,6 @@
 
 -----
 <div align="center">
-
-## My Ko-Fi ☕
-
 <br>
 
 <a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
