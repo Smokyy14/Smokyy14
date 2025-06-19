@@ -26,6 +26,20 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <br>
 
+<br>
+
+<div align="center">
+
+## Ko-fi:
+
+<a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+</a>
+
+</div>
+
+<br>
+
 ## <b> Let's Connect..!</b>
 <br>
 <div align='left'>
@@ -43,14 +57,6 @@
 <li>
 <a href="https://www.instagram.com/santuti304?igsh=MWN6eHMyN3hnbDYzNg==" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%252300acee.svg?color=EA899A&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
-<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
 </a>
 </li>
 
