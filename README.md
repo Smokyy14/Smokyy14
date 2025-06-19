@@ -35,7 +35,7 @@
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
-        <img src="https://your-image-host.com/kofi-button-custom.png" alt="Support me on Ko-fi" width="200"/>
+        <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
       </a>
     </td>
   </tr>
