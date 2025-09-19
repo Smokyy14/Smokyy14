@@ -29,6 +29,7 @@
 <br><br>
 
 -----
+
 <div align="center">
 <br>
 
@@ -46,7 +47,7 @@
 
 <br>
 
-<ul>
+<ul style="list-style: none; padding: 0;">
 
 <li>
 <a href="https://x.com/starsonthasky" target="_blank">
@@ -65,13 +66,14 @@
 <br>
 
 <li>
-<a href="https://t.me/@Smokyy14" target="_blank">
+<a href="https://t.me/Smokyy14" target="_blank">
   <img src="https://img.shields.io/badge/Telegram:%20hola-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-<li>
+</li>
 
 <br>
   
+<li>
 <a href="mailto:Contact.Smokyy@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail:%20Contact.Smokyy@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
