@@ -70,6 +70,8 @@
 </a>
 <li>
 
+<br>
+  
 <a href="mailto:Contact.Smokyy@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail:%20Contact.Smokyy@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
