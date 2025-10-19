@@ -34,7 +34,7 @@
 <br>
 
 <a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
-  <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_dark.png?_gl=1*xsfa39*_gcl_au*MjI5NTg4MDc4LjE3NTAzNDk3ODk.*_ga*MTY1MzkzNzIzLjE3NTAzNDk3OTg.*_ga_M13FZ7VQ2C*czE3NTAzNzAxNzAkbzMkZzEkdDE3NTAzNzIyMzkkajM0JGwwJGgw" alt="Support me on Ko-fi" width="500"/>
+  <img src="https://files.catbox.moe/0lj2vr.jpg" alt="Support me on Ko-fi" width="500"/>
 </a>
 
 </div>
