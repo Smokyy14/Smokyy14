@@ -67,7 +67,7 @@
 
 <li>
 <a href="https://t.me/Smokyy14" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram:%20hola-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 </li>
 
