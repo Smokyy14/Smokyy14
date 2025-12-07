@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a passionate web enthusiast focused on building clean, efficient, and user-friendly digital experiences. I thrive on problem-solving and continually expanding my technical skill set.
 
@@ -23,8 +23,6 @@ I am a passionate web enthusiast focused on building clean, efficient, and user-
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="Git" src="https://img.shields.io/badge/GIT-%23E44C30.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
 ---
