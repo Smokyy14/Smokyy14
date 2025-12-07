@@ -1,90 +1,81 @@
 <div align="center">
+  
+### Web Developer | Constant Learner
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+</div>
+
+---
+
+## 🚀 About Me
+
+I am a passionate web enthusiast focused on building clean, efficient, and user-friendly digital experiences. I thrive on problem-solving and continually expanding my technical skill set.
+
+* I'm currently focused on enhancing my expertise in **React** and **TypeScript**.
+* I'm always learning about **software architecture** and **clean code principles**.
+* I'm a vibe-coder, but while I'm doing it, I'm learning.
+* How to reach me: [Contact.Smokyy@gmail.com](mailto:Contact.Smokyy@gmail.com)
+
+---
+
+### Core Skills
+
+<p align="center">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt="Git" src="https://img.shields.io/badge/GIT-%23E44C30.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+---
+
+<div align="center">
+
+## My GitHub stats
 
 <br>
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smokyy14&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Smokyy14"/>
+<a href="https://github.com/Smokyy14/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smokyy14&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000,130F40" width="375" alt="Smokyy14 Top Languages"/>
+</a>
+
+<a href="https://github.com/Smokyy14">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smokyy14&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000,130F40&hide_title=true&hide=issues,prs" width="375" alt="Smokyy14 Stats"/>
 </a>
 
 </div>
 
-<br><br>
-
------
-
-<br>
+---
 
 <div align="center">
 
-## <b>Languages:</b>
+## My social media
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<p>
+<a href="https://x.com/starsonthasky" target="_blank">
+  <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://www.instagram.com/santuti304?igsh=MWN6eHMyN3hnbDYzNg==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-EA899A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://t.me/Smokyy14" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="mailto:Contact.Smokyy@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
 
 </div>
 
-<br><br>
-
------
+---
 
 <div align="center">
-<br>
+
+## Support my work here!
 
 <a href="https://ko-fi.com/R5R01GPUZJ" target="_blank">
-  <img src="https://files.catbox.moe/0lj2vr.jpg" alt="Support me on Ko-fi" width="500"/>
+  <img src="https://files.catbox.moe/0lj2vr.jpg" alt="Support me on Ko-fi" width="300"/>
 </a>
 
 </div>
-
------
-
-<br>
-
-## <b>Let's Connect..!</b>
-
-<br>
-
-<ul style="list-style: none; padding: 0;">
-
-<li>
-<a href="https://x.com/starsonthasky" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%252300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://www.instagram.com/santuti304?igsh=MWN6eHMyN3hnbDYzNg==" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%252300acee.svg?color=EA899A&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://t.me/Smokyy14" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-</li>
-
-<br>
-  
-<li>
-<a href="mailto:Contact.Smokyy@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://matias.me/nsfw/" target="_blank">
-  <img src="https://img.shields.io/badge/Trust%20Me-%252300acee.svg?color=A020F0&style=for-the-badge" alt="Trust Me" />
-</a>
-</li>
-
-</ul>
