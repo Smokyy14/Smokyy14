@@ -17,8 +17,8 @@ I am a passionate web enthusiast focused on building clean, efficient, and user-
 
 ---
 
-### [![Core Skills]
 <p align="center">
+### [Core Skills]
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,js,discordjs,bots," />
   </a>
