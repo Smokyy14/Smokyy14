@@ -16,14 +16,16 @@ I am a passionate web enthusiast focused on building clean, efficient, and user-
 * How to reach me: [Contact.Smokyy@gmail.com](mailto:Contact.Smokyy@gmail.com)
 
 ---
+<div align="center">
 
-<p align="center">
-  
-### [Core Skills]
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,discordjs,bots," />
-  </a>
-</p>
+<h3>Core Skills</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,discordjs,bots" />
+</a>
+
+</div>
+
 
 ---
 
