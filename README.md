@@ -10,7 +10,6 @@ I am a passionate web enthusiast focused on building clean, efficient, and user-
 
 * I'm currently focused on enhancing my expertise in **TypeScript**.
 * I'm always learning about **software architecture** and **clean code principles**.
-* I'm a vibe-coder, but while I'm doing it, I'm learning.
 * How to reach me: [Contact.Smokyy@gmail.com](mailto:Contact.Smokyy@gmail.com)
 
 <div align="center">
