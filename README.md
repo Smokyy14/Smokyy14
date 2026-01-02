@@ -37,7 +37,7 @@ I am a passionate web enthusiast focused on building clean, efficient, and user-
 ## My social media
 
 <div align="center">
-  <a href="https://github.com/santuti304">
+  <a href="https://instagram.com/santuti304">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://twitter.com/starsonthasky">
