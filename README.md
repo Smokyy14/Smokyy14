@@ -24,12 +24,6 @@ I am a passionate web enthusiast focused on building clean, efficient, and user-
 
 <div align="center">
 
-<h2>My GitHub stats</h2>
-
-<br>
-
-<img src="https://github-readme-stats-livid-ten-75.vercel.app/api/top-langs/?username=Smokyy14&layout=compact&theme=radical" width="375" />
-
 </div>
 
 <div align="center">
