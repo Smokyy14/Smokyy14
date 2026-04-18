@@ -1,6 +1,7 @@
 <div align="center">
   
 ### Web Developer | Constant Learner
+![Github WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Smokyy14&theme=dark&data=repositories,stars,commits)
 
 </div>
 
@@ -28,7 +29,7 @@ I am a passionate web enthusiast focused on building clean, efficient, and user-
 
 <div align="center">
 
-## My social media
+## Contact me!
 
 <div align="center">
   <a href="https://instagram.com/santuti304">
