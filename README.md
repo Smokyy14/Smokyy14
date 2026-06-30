@@ -9,7 +9,7 @@
 
 I am a passionate web enthusiast focused on building clean, efficient, and user-friendly digital experiences. I thrive on problem-solving and continually expanding my technical skill set.
 
-* I'm currently focused on enhancing my expertise in **TypeScript**.
+* I'm currently focused on enhancing my expertise in **JavaScript**.
 * I'm always learning about **software architecture** and **clean code principles**.
 * How to reach me: [Contact.Smokyy@gmail.com](mailto:Contact.Smokyy@gmail.com)
 
