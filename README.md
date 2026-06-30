@@ -1,7 +1,7 @@
 <div align="center">
   
 ### Web Developer | Constant Learner
-![Github WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Smokyy14&theme=dark&data=repositories,stars,commits)
+![Github WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Smokyy14&theme=carbon&data=repositories,stars,commits)
 
 </div>
 
